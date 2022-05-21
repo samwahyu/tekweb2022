@@ -37,7 +37,7 @@ Siklus hidup BPM
 Jagongan coffe roaster
 Jagongan berawal dari gerobak seduh pada tahun 2017 dan juga pemilik nya (mas Tatang) terinspirasi dari film filosofi kopi pada saat itu masih sangat jarang sekali penjual kopi keiling disekitar daerah Sewon. Dengan melihat peluang yang ada setelah 2 tahun kemudian dengan memanfaatkan penjualan kopi fresh atau giling ditempat maka tercetus lah ide nama Jagongan, nama tersebut diambil dari Bahasa jawa yang bermakna “duduk-duduk sambil mengobrol” yang memiliki arti. Sebelum era social media sangat kuat seperti sekarang ini sangat berpengaruh karena lokasi café jagongan ini tidak seperti café pada umumnya yang dekat dengan jalan melainkan sedikit masuk dari jalan utama, mas Tatang mengungkapkan jagongan bisa terlihat strategis secara online (Instagram). Tetapi ada hal yang sangat diuntungkan dengan hal tersebut yakni tempat yang silent cocok untuk mengerjakan tugas, diskusi ataupun yang lainnya. Sempat mencoba menjadi caffe pada umumnya, tetapi sang owner memutuskan untuk konsisten hanya menyediakan kopi saja sebagai menu utama diera gempuran es kopi dll. Ada beberapa alasan banyak orang yang datang ke jagongan diantaranya Instagram, Google maps, rekomendasi (Pembelian Tertuju). Sang owner juga mengajak para petani yang memiliki biji kopi yang bagus untuk bekerja sama selain itu jagongan juga berprinsip selalu menjaga konsistensi dalam segala hal dari jam buka, kepuasan pelanggan dan masih banyak lagi.
 
-![Gambar Diagram Alur](../asset/gambar_markdown.png)
+![Gambar Diagram Alur](https://raw.githubusercontent.com/samwahyu/tekweb2022/main/asset/gambar_markdown.png)
 
 
 
