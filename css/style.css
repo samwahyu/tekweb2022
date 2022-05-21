@@ -19,7 +19,12 @@ header h1 {
 header h1 a {
     transition: .3s;
 }
+header h1,
+header a:focus {
+    color: #F84744 ;
 
+
+}
 header h1 a:hover {
     color: #F84744;
 }
@@ -102,7 +107,7 @@ a {
 .banner {
     background-color: #F84744;
     padding: 150px 0;
-    background: url(../img/wahyu.JPG) top center no-repeat;
+    background: url(../img/wahyu.png) top center no-repeat;
     left: 0;
     right: 0;
     top: 0;
