@@ -1,0 +1,26 @@
+[
+    {
+        "id":"Artikel 1",
+        "judul":"Analisis Proses Bisnis di jagongan Coffe",
+        "desc":"Sebuah review dari analisi proses bisnis di Jagongan Cofee",
+        "tanggal":"19-Maret-2022",
+        "img":"./asset/foto jagongan.jpg",
+        "konten":"artikel1.md"
+    },
+    {
+        "id":"Artikel 2",
+        "judul":"Artikel tentang random Text",
+        "desc":"Disini masih berisi tentang Random text saja",
+        "tanggal":"12-Oktober-2002",
+        "img":"./asset/foto 2.jpg",
+        "konten":"artikel2.md"
+    },
+    {
+        "id":"Artikel 3",
+        "judul":"Artikel1",
+        "desc":"Contoh doang",
+        "tanggal":"12-Oktober-2002",
+        "img":"./asset/foto 3.jpg",
+        "konten":"artikel3.md"
+    }
+]
