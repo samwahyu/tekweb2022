@@ -67,7 +67,7 @@ response:
 true    //if true
 false   //if false
 ```
-### Menghapus article
+### Menghapus artikel
 ```
 DELETE: /artikel
 response:
